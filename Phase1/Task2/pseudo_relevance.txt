@@ -1,0 +1,65 @@
+what articles exist which deal with tss time sharing system anoperating system for ibm computers 2319 1410 1680 2379 2950 1605 1698 
+i am interested in articles written either by prieve or udo poochprieve bpooch u system 2177 282 1264 1977 2194 3129 3078 2572 2215 
+intermediate languages used in construction of multitargeted compilers tcoll 252 1723 3102 3099 3115 2939 1852 1835 929 1402 
+im interested in mechanisms for communicating between disjoint processespossibly but not exclusively in a distributed environment i wouldrather see descriptions of complete mechanisms with or without implementationsas opposed to theoretical work on the abstract problem remote procedurecalls and messagepassing are examples of my interests 3043 2905 2439 2931 decision 2969 1506 display 3128 input 
+id like papers on design and implementation of editing interfaceswindowmanagers command interpreters etc the essential issues arehuman interface design with views on improvements to user efficiencyeffectiveness and satisfaction 2035 1829 2299 1699 1698 1978 2629 chess 2003 2947 
+interested in articles on robotics motion planning particularly thegeometric and combinatorial aspects we are not interested in thedynamics of arm motion 2826 simulation 531 2230 242 1014 disk 2828 1341 2931 
+i am interested in distributed algorithms concurrent programs inwhich processes communicate and synchronize by using message passingareas of particular interest include faulttolerance and techniquesfor understanding the correctness of these algorithms 3043 2912 2949 formac 3141 3128 2865 2903 2871 2342 
+addressing schemes for resources in networks resource addressing innetwork operating systems 2625 2541 2500 2951 1752 2522 1869 2858 2194 2499 
+security considerations in local networks network operating systemsand distributed systems 2949 2849 3158 3068 2372 2371 3137 2581 3174 routing 
+parallel languages languages for parallel computation 2785 2700 2266 1795 3059 3075 2895 2714 1262 2973 
+setl very high level languages 2699 2906 1923 2717 3171 programmers 2527 3148 2716 3150 
+portable operating systems 3127 language 1930 3068 1461 1750 3196 1680 2372 1247 
+code optimization for space efficiency 1947 1795 2748 2495 2680 2491 1886 2904 2944 
+find all discussions of optimal implementations of sort algorithms fordatabase management applications 3131 3132 3164 2674 3058 2964 2819 2679 2716 3087 
+find all discussions of horizontal microcode optimization with specialemphasis on optimization of loops and global optimization 3125 2701 2944 2877 2464 2195 2344 2835 1807 3069 
+find all descriptions of file handling in operating systems based onmultiple processes and message passing 3141 codes 1135 1750 2378 409 2184 3157 2629 2522 
+optimization of intermediate and machine code 1658 2495 2253 1795 2491 2748 1947 2904 3080 
+languages and compilers for parallel processors especially highlyhorizontal microcoded machines code compaction 2138 1795 2685 2495 2266 950 3066 2896 2706 
+parallel algorithms 2973 3075 2266 950 3156 2557 2570 2289 2433 2714 
+graph theoretic algorithms applicable to sparse matrices 2695 2769 2986 2780 2490 2630 2368 2289 2199 2484 
+computational complexity intractability classcomplete reductionsalgorithms and efficiency 2950 3131 2337 2226 2454 3086 1658 3151 2903 2953 
+i am interested in hiddenline and hiddensurface algorithms forcylinders toroids spheres and cones this is a rather specializedtopic in computer graphics 2473 2913 clipping 1181 2367 2384 1159 2441 1551 2146 
+distributed computing structures and algorithms 3137 2849 3148 information 2276 2081 1873 2949 2578 1411 
+applied stochastic processes 1696 20 268 1410 3043 942 1194 3120 2882 2342 
+performance evaluation and modelling of computer systems 2318 1938 3089 system 2984 2268 problem 1653 3119 2990 
+concurrency control mechanisms in operating systems 2626 1750 storage 2372 3105 1680 2878 2939 2314 2840 
+memory management aspects of operating systems 2069 2297 1752 2988 2902 2406 2372 2358 1750 2740 
+any information on packet radio networks of particular interest arealgorithms for packet routing and for dealing with changes innetwork topography i am not interested in the hardware used in thenetwork 3032 2949 2849 2892 2572 616 1165 3158 1458 
+numbertheoretic algorithms especially involving prime number seriessieves and chinese remainder theorem 2927 2089 1840 3021 1539 2462 1420 1841 1697 
+articles on text formatting systems including what you see is what youget systems examples tnroff scribe bravo 1926 2341 2786 1112 1256 3142 84 248 1457 2947 
+id like to find articles describing the use of singular value decompositionin digital image processing applications include finding approximationsto the original image and restoring images that are subject to noise anarticle on the subject is h andrews and c patterson outer productexpansions and their uses in digital image processing american mathematicalandrews hpatterson c 3047 1686 1144 2142 3013 2370 3015 2826 2283 
+id like to find articles describing graph algorithms that are based onthe eigenvalue decomposition or singular value decomposition of theajacency matrix for the graph im especially interested in any heuristicalgorithms for graph coloring and graph isomorphism using this method 3139 2289 2630 2368 2490 2177 3156 2883 2484 2619 
+articles about the sensitivity of the eigenvalue decomposition of realmatrices in particular zeroone matrices im especially interested inthe separation of eigenspaces corresponding to distinct eigenvaluesarticles on the subjectc davis and w kahn the rotation of eigenvectors by a permutationsiam j numerical analysis vol 7 no 1 1970 g stewart errorbounds for approximate invariant subspaces of closed linear operatorssiam j numerical analysis vol 8 no 4 1971davis ckahn wstewart g 1899 1990 2415 1883 119 2239 1982 2660 1298 2074 
+currently interested in isolation of root of polynomial there is an oldmore recent materialheindel l 1615 848 1999 1949 334 formac 1524 simulation 1440 672 
+probabilistic algorithms especially those dealing with algebraic andsymbolic manipulation some examplesrabiin probabilistic algorithm on finite field siamwaztch probabilistic testing of polynomial identities siamrabinm 2090 1386 1474 program 1397 2165 2932 2166 1216 computing 
+fast algorithm for contextfree language recognition or parsing 2112 2739 2794 context-sensitive 2811 2110 2836 1350 1527 2754 
+articles describing the relationship between data types and concurrencyeg what is the type of a process when is a synchronization attempt between two processes type correct in a messagepassing system is thereany notion of the types of messagesie any way to check that the senderof the message and the receiver are both treating the bit stream as someparticular type 2558 2957 1489 2815 265 906 770 24 1736 183 
+what is the type of a modulei dont want the entire literature onabstract data types here but im not sure how to phrase this to avoid itim interested in questions about how one can check that a module matchescontexts in which it is used 3031 1698 3105 3142 2931 3177 2082 2470 3103 2958 
+what does type compatibility mean in languages that allow programmerdefined types you might want to restrict this to extensible languagesthat allow definition of abstract data types or programmersupplieddefinitions of operators like 2940 2651 1861 2078 2931 3105 3103 1902 array 
+list all articles dealing with data types in the following languagesthat are referenced frequently in papers on the above languages eg catchany languages with interesting type structures that i might have missed 2956 1588 2051 3105 1485 1470 2651 2406 1457 
+theory of distributed systems and databases subtopics of specialinterest include reliability and faulttolerance in distributed systemsatomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallelsystems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520 3043 2578 3082 3137 2949 2849 3148 3128 52 2371 
+computer performance evaluation techniques using pattern recognitionand clustering la 70803 462 2215 2402 2019 2811 1726 2318 1653 2370 2894 
+analysis and perception of shape by humans and computers shapedescriptions shape recognition by computer twodimensional shapesmeasures of circularity shape matching 2569 3107 2754 2771 2847 3125 3046 3098 2455 2883 
+texture analysis by computerdigitized texture analysis texturesynthesis perception of texture 2829 2523 2125 2754 2019 1404 2751 1260 1045 
+the use of operations research models to optimize information systemperformance this includes fine tuning decisions such as secondary indexselection file reorganization and distributed databases 1976 2114 2631 2949 2452 1194 2359 2926 397 
+the application of fuzzy subset theory to clustering and informationretrieval problems this includes performance evaluation and automaticindexing considerations 2711 2990 1032 1457 329 2307 2631 1236 2451 1267 
+the use of bayesian decision models to optimize information retrievalsystem performance this includes stopping rules to determine when auser should cease scanning the output of a retrieval search 1699 system game 2970 storage 2288 1680 3134 1032 1937 
+the use of computer science principles eg data structures numerical methods in generating optimization eg linear programmingalgorithms this includes issues of the khachian russian ellipsoidalalgorithm and complexity of such algorithms 1066 3130 2592 1153 1809 2689 2879 3010 1073 input 
+the role of information retrieval in knowledge based systemsie expert systems system 2795 2307 2390 3134 2990 1514 1032 2288 1699 
+parallel processors in information retrieval 2714 3156 3075 2114 891 2288 1457 1699 1680 
+parallel processors and paging algorithms 3075 3156 2714 2570 2973 3006 2266 2497 1752 
+modelling and simulation in agricultural ecosystems 1928 2767 3070 1870 1890 3048 2742 2970 
+mathematical induction group theory integers modulo mprobability binomial coefficients binomial theorem homomorphismmorphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210 569 514 139 2391 series 1186 procedures 1308 1691 
+semantics of programming languages including abstract specificationsof data types denotational semantics and proofs of correctnesshoare adijkstra e university of massachusetts amherst ma 01003 2192 2906 1043 394 2173 2576 2940 3196 857 procedures 
+anything dealing with star height of regular languages or regularexpressions or regular events 1896 1898 1993 2921 1739 2650 1355 2051 2112 1665 
+articles relation the algebraic theory of semigroups and monoidsto the study of automata and regular languages 2327 2650 2112 1678 2323 1896 1898 1993 2921 2449 
+abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629630backus jde millo rlipton rperlis a 3077 1705 1890 2060 1700 1781 2113 2802 2922 2705 
+algorithms or statistical packages for anova regression using leastsquares or generalized linear models system design capabilitiesstatistical formula are of interest students t test wilcoxon andsign tests multivariate and univariate components can be included 1816 2634 1709 2395 3138 2670 2994 3166 1171 1344 
+dictionary construction and accessing methods for fast retrievalof words or lexical items or morphologically related informationhashing or indexing methods are usually applied to english spelling ornatural language problems 1235 144 1700 1112 2711 1456 944 28 1264 719 
+hardware and software relating to database management systemsdatabase packages back end computers special associative hardwarewith microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systemslike system r ims adabas total etc 2967 3087 3026 2424 3158 2002 3056 1264 2771 
+information retrieval articles by gerard salton or others about clusteringbibliographic coupling use of citations or cocitations the vectorspace model boolean search methods using inverted files feedback etcsalton g 2711 3134 1236 1700 2631 2746 2307 2140 2114 1830 
+results relating parallel complexity theory both for prams anduniform circuits 2932 2720 2327 1961 2401 3156 2927 3086 950 1856 
+algorithms for parallel computation and especially comparisonsbetween parallel and sequential algorithms 2973 2896 2266 3075 950 3156 2289 2342 2714 1262 
+list all articles on el1 and ecl el1 may be given as el1 i dontremember how they did it 595 1878 2177 1931 1853 497 1264 pattern 1456 2513 
+
